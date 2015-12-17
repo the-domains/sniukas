@@ -1,0 +1,28 @@
+name: Sniukas
+favicon: null
+layout_spectrum: 0.4370791991241276
+typography_spectrum: 0.6920012882910669
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7835729729849845
+  lightness: 0.35541385086253285
+  saturation: 0.5836560535244644
+  rhythmicContrast: 0.11146285757422447
+purpose: []
